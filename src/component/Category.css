@@ -1,0 +1,13 @@
+.expense-item {
+  background-color:black;
+  text-shadow: blanchedalmond;
+  background-position: center;
+  
+    
+  }
+ .expense-item__description {
+    background-color: rgb(250, 216, 216);
+    text-shadow: blanchedalmond;
+    font-size: large;
+  text-align: center;
+  }
